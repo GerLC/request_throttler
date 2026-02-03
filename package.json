@@ -1,0 +1,13 @@
+{
+  "name": "request_throttler",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "typescript": "^5.1.0"
+  }
+}
